@@ -1,0 +1,1 @@
+The Vehicle Parking Management System is a desktop-based application developed using Java and Swing that helps efficiently manage vehicle parking operations. The system is designed to simplify the process of recording vehicle entry and exit, allocating parking slots, and maintaining parking records in an organized manner.
